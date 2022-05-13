@@ -1,5 +1,7 @@
 ## Export a model
 ```
+pip install -f https://staging.oneflow.info/branch/master/cpu --pre oneflow
+pip install flowvision
 python export_resnet.py
 ```
 ## Build
